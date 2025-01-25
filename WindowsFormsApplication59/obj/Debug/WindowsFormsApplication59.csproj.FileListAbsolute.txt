@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\bin\Debug\WindowsFormsApplication59.exe.config
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\bin\Debug\WindowsFormsApplication59.exe
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\bin\Debug\WindowsFormsApplication59.pdb
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.Form1.resources
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.Properties.Resources.resources
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.exe
+C:\Users\user\Desktop\برنامه نویسی\WindowsFormsApplication59\WindowsFormsApplication59\obj\Debug\WindowsFormsApplication59.pdb
